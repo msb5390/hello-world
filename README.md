@@ -1,3 +1,3 @@
 # hello-world
 
-I am here to work on developing my coding and software development skills. I have a lot of experience with programming in C++ and Python, and now I'm looking forward to working on some larger projects. That probably requires learning some sort of version control system.
+I'm an assistant professor of math and physics at Kansas Wesleyan University. I've so far mainly avoided using any sort of version control, but it's really something that I ought to get comfortable with.
